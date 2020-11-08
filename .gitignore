@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# emacs
+*~
+
+# intelliJ
+.idea/
+
+# sbt
+.bsp/
+project/
+target/
